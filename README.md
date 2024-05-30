@@ -5,6 +5,7 @@
 💻 I am currently pursuing a degree in Software Engineering.<br>
 ⌨️ My primary languages at the moment are HTML, CSS, JavaScript, and Python.<br>
 ⚙️ I am seeking new challenges in my professional career and am focused on achieving success as a developer.<br>
+📫 How to reach me: E-mail: vieiravitor604@gmail.com
 
 
 
