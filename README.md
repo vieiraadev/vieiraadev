@@ -40,12 +40,7 @@
   
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/vieiraadev/vieiraadev/output/snake.svg" alt="Snake animation" />
-
-###
 
 
