@@ -16,8 +16,12 @@
 
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=vieiraadev&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiraadev&theme=blue-green&padding=30"/>
+  
 </p> 
+<div align='left'>
+   <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=vieiraadev&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 <div align='left'>
    <h2>📲 Contact me</h2>
