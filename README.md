@@ -13,12 +13,6 @@
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-
-
-<p align="left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiraadev&theme=blue-green&padding=30"/>
-  
-</p> 
 <div align='left'>
    <img height="180em" src="https://github-readme-stats-zuilinho.vercel.app/api/top-langs/?username=vieiraadev&hide_border=true&layout=compact&langs_count=7&theme=algolia"/>
 </div>
