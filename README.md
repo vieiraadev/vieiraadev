@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Meu+nome+é+Vitor+Vieira+Machado...;Tenho+18+Anos...;Sou+De+Curitiba,+PR,+Brasil...;Sou+Estudante+De+Engenharia+De+Software;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
+
+<h4>Comecei minha carreira como desenvolvedor em 2023, acumulando experiência em diversas linguagens de programação. Minha trajetória profissional é marcada pela dedicação e aprimoramento constante, refletindo minha paixão por tecnologia e inovação.</h4>
+   <h4>Sou estudante de Engenharia de Software na <a href="https://www.pucpr.br/">PUCPR</a></h4>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vieiraadev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraadev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
